@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.db
+database/
+mlflow_artifacts/
+mlflow_data/
+*.onnx
+data/
